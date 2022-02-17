@@ -1,0 +1,12 @@
+target/
+
+### Intellij IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### logs ###
+*sample.log
+*sample.log.*
+test-output/
