@@ -11,9 +11,9 @@ public class RomanToIntegerTest {
   @Test
   public void romanToIntegerTest() {
     String s = "MCMXCIV";
-    int actualNumb = r.romanToInt(s);
-    int expectedNumb = 1994;
-    assertEquals(expectedNumb, actualNumb);
+    int actualNum = r.romanToInt(s);
+    int expectedNum = 1994;
+    assertEquals(expectedNum, actualNum);
   }
 
 }
