@@ -10,8 +10,8 @@ public class RichestCustomerWealthTest {
 
     @Test
     public void richestCustomerWealthTest() {
-        int expectedResult = r.maximumWealth(accounts);
-        Assert.assertEquals(expectedResult, 10);
+        int actualResult = r.maximumWealth(accounts);
+        Assert.assertEquals(10, actualResult);
     }
 
 }

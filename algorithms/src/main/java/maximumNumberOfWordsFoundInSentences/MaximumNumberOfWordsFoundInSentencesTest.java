@@ -10,8 +10,8 @@ public class MaximumNumberOfWordsFoundInSentencesTest {
 
     @Test
     public void maximumNumberOfWordsFoundInSentencesTest(){
-        int expectedResult = m.mostWordsFound(sentences);
-        Assert.assertEquals(expectedResult, 3);
+        int actualResult = m.mostWordsFound(sentences);
+        Assert.assertEquals(3, actualResult);
     }
 
 }
