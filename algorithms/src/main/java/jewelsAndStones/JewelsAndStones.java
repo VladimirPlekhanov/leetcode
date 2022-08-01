@@ -1,19 +1,28 @@
 package jewelsAndStones;
 
+import java.util.HashMap;
+
 public class JewelsAndStones {
 
     public int numJewelsInStones(String jewels, String stones) {
-        int counter = 0;
-        char[] jewelsArray = jewels.toCharArray();
-        char[] stonesArray = stones.toCharArray();
+        HashMap<Character, Integer> map = new HashMap<>();
+        int count = 0;
+
+        for (int i = 0; i < stones.length(); i++) {
+            if (map.containsKey(stones.charAt(i))) {
+                int c = map.get(stones.charAt(i));
+                map.replace(stones.charAt(i), ++c);
+            } else
+                map.put(stones.charAt(i), 1);
+        }
+
         for (int i = 0; i < jewels.length(); i++) {
-            for (int j = 0; j < stones.length(); j++) {
-                if (jewelsArray[i] == stonesArray[j]){
-                    counter++;
-                }
+            if (map.containsKey(jewels.charAt(i))) {
+                count += map.get(jewels.charAt(i));
             }
         }
-        return counter;
+
+        return count;
     }
 
 }
