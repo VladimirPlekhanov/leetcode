@@ -22,3 +22,5 @@ LeetCode
 |2160|[Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/) | [Java](./algorithms/src/main/java/minimumSumOfFourDigitNumberAfterSplittingDigits/MinimumSumOfFourDigitNumberAfterSplittingDigits.java)|Easy|
 |1512|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [Java](./algorithms/src/main/java/numberOfGoodPairs/NumberOfGoodPairs.java)|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Java](./algorithms/src/main/java/jewelsAndStones/JewelsAndStones.java)|Easy|
+|1603|[Design Parking System](https://leetcode.com/problems/design-parking-system/) | [Java](./algorithms/src/main/java/designParkingSystem/DesignParkingSystem.java)|Easy|
+|1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Java](./algorithms/src/main/java/kidsWithTheGreatestNumberOfCandies/KidsWithTheGreatestNumberOfCandies.java)|Easy|
