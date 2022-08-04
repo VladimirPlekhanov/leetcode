@@ -24,3 +24,5 @@ LeetCode
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Java](./algorithms/src/main/java/jewelsAndStones/JewelsAndStones.java)|Easy|
 |1603|[Design Parking System](https://leetcode.com/problems/design-parking-system/) | [Java](./algorithms/src/main/java/designParkingSystem/DesignParkingSystem.java)|Easy|
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Java](./algorithms/src/main/java/kidsWithTheGreatestNumberOfCandies/KidsWithTheGreatestNumberOfCandies.java)|Easy|
+|1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [Java](./algorithms/src/main/java/subtractTheProductAndSumOfDigitsOfAnInteger/SubtractTheProductAndSumOfDigitsOfAnInteger.java)|Easy|
+|1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Java](./algorithms/src/main/java/howManyNumbersAreSmallerThanTheCurrentNumber/HowManyNumbersAreSmallerThanTheCurrentNumber.java)|Easy|
