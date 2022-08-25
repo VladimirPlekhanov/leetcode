@@ -1,4 +1,4 @@
-package filteredOrSortedList;
+package other.filteredOrSortedList;
 
 import java.util.Comparator;
 import java.util.List;

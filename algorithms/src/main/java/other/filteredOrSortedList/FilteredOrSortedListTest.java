@@ -1,4 +1,4 @@
-package filteredOrSortedList;
+package other.filteredOrSortedList;
 
 import org.junit.Test;
 
