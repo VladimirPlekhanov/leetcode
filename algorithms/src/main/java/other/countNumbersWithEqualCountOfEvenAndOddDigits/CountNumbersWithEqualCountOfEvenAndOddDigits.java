@@ -10,7 +10,7 @@ public class CountNumbersWithEqualCountOfEvenAndOddDigits {
             int odd = 0;
             int number = String.valueOf(Math.abs(k)).length();
 
-            for (int j = number - 1; j >= 0; j--) {
+            for (int j = 0; j < number; j++) {
                 digit = (int) (k / (Math.pow(10, j)) % 10);
                 if (digit % 2 == 0) {
                     even++;
