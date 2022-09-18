@@ -37,3 +37,6 @@ LeetCode
 | 4   | Replacing negative elements in the array with zeros |[Java](./algorithms/src/main/java/other/replaceNegativeElementsByZero/ReplaceNegativeElementsByZero.java)||
 | 5   | Fibonacci number generator                          |[Java](./algorithms/src/main/java/other/generateFibonacciNumbers/GenerateFibonacciNumbers.java)||
 | 6   | Prime number generator                              |[Java](./algorithms/src/main/java/other/generatePrimeNumbers/GeneratePrimeNumbers.java)||
+| 7   | Total number of elements with equal number of even and odd digits |[Java](./algorithms/src/main/java/other/countNumbersWithEqualCountOfEvenAndOddDigits/CountNumbersWithEqualCountOfEvenAndOddDigits.java)||
+| 8   | Total number of elements consisting only of unique digits |[Java](./algorithms/src/main/java/other/countNumbersWithOnlyUniqueDigits/CountNumbersWithOnlyUniqueDigits.java)||
+| 9   | Rotated clockwise matrix |[Java](./algorithms/src/main/java/other/rotateArray/RotateArray.java)||
