@@ -29,14 +29,15 @@ LeetCode
 
 ### Other Algorithms
 
-| #   | Title                                               | Solution | Difficulty |
-|-----|-----------------------------------------------------| -------- | ---------- |
-| 1   | Filtered or sorted list using stream                |[Java](./algorithms/src/main/java/other/filteredOrSortedList/FilteredOrSortedList.java)||
-| 2   | Anagram                                             |[Java](./algorithms/src/main/java/other/anagram/Anagram.java)||
-| 3   | Sum of the elements standing in even positions      |[Java](./algorithms/src/main/java/other/sumElementsOnEvenPositions/SumElementsOnEvenPositions.java)||
-| 4   | Replacing negative elements in the array with zeros |[Java](./algorithms/src/main/java/other/replaceNegativeElementsByZero/ReplaceNegativeElementsByZero.java)||
-| 5   | Fibonacci number generator                          |[Java](./algorithms/src/main/java/other/generateFibonacciNumbers/GenerateFibonacciNumbers.java)||
-| 6   | Prime number generator                              |[Java](./algorithms/src/main/java/other/generatePrimeNumbers/GeneratePrimeNumbers.java)||
+| #   | Title                                                             | Solution | Difficulty |
+|-----|-------------------------------------------------------------------| -------- | ---------- |
+| 1   | Filtered or sorted list using stream                              |[Java](./algorithms/src/main/java/other/filteredOrSortedList/FilteredOrSortedList.java)||
+| 2   | Anagram                                                           |[Java](./algorithms/src/main/java/other/anagram/Anagram.java)||
+| 3   | Sum of the elements standing in even positions                    |[Java](./algorithms/src/main/java/other/sumElementsOnEvenPositions/SumElementsOnEvenPositions.java)||
+| 4   | Replacing negative elements in the array with zeros               |[Java](./algorithms/src/main/java/other/replaceNegativeElementsByZero/ReplaceNegativeElementsByZero.java)||
+| 5   | Fibonacci number generator                                        |[Java](./algorithms/src/main/java/other/generateFibonacciNumbers/GenerateFibonacciNumbers.java)||
+| 6   | Prime number generator                                            |[Java](./algorithms/src/main/java/other/generatePrimeNumbers/GeneratePrimeNumbers.java)||
 | 7   | Total number of elements with equal number of even and odd digits |[Java](./algorithms/src/main/java/other/countNumbersWithEqualCountOfEvenAndOddDigits/CountNumbersWithEqualCountOfEvenAndOddDigits.java)||
-| 8   | Total number of elements consisting only of unique digits |[Java](./algorithms/src/main/java/other/countNumbersWithOnlyUniqueDigits/CountNumbersWithOnlyUniqueDigits.java)||
-| 9   | Rotated clockwise matrix |[Java](./algorithms/src/main/java/other/rotateArray/RotateArray.java)||
+| 8   | Total number of elements consisting only of unique digits         |[Java](./algorithms/src/main/java/other/countNumbersWithOnlyUniqueDigits/CountNumbersWithOnlyUniqueDigits.java)||
+| 9   | Rotated clockwise matrix                                          |[Java](./algorithms/src/main/java/other/rotateArray/RotateArray.java)||
+| 10  | Find Duplicates                                                   |[Java](./algorithms/src/main/java/other/findDuplicates/FindDuplicates.java)||
