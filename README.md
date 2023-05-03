@@ -26,6 +26,8 @@ LeetCode
 | 1431 |[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[Java](./algorithms/src/main/java/kidsWithTheGreatestNumberOfCandies/KidsWithTheGreatestNumberOfCandies.java)|Easy|
 | 1281 |[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[Java](./algorithms/src/main/java/subtractTheProductAndSumOfDigitsOfAnInteger/SubtractTheProductAndSumOfDigitsOfAnInteger.java)|Easy|
 | 1365 |[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[Java](./algorithms/src/main/java/howManyNumbersAreSmallerThanTheCurrentNumber/HowManyNumbersAreSmallerThanTheCurrentNumber.java)|Easy|
+| 2469 |[Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)|[Java](./algorithms/src/main/java/convertTheTemperature/ConvertTheTemperature.java)|Easy|
+| 2574 |[Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/)|[Java](./algorithms/src/main/java/leftAndRightSumDifferences/LeftAndRightSumDifferences.java)|Easy|
 
 ### Other Algorithms
 
