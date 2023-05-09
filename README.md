@@ -29,6 +29,7 @@ LeetCode
 | 2469 |[Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)|[Java](./algorithms/src/main/java/convertTheTemperature/ConvertTheTemperature.java)| Easy       |
 | 2574 |[Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/)|[Java](./algorithms/src/main/java/leftAndRightSumDifferences/LeftAndRightSumDifferences.java)| Easy       |
 | 1689 |[Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|[Java](./algorithms/src/main/java/partitioningIntoMinimumNumberOfDeciBinaryNumbers/PartitioningIntoMinimumNumberOfDeciBinaryNumbers.java)| Medium     |
+| 1476 |[Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/)|[Java](./algorithms/src/main/java/subrectangleQueries/SubrectangleQueries.java)| Medium     |
 
 ### Other Algorithms
 
