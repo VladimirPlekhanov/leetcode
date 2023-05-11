@@ -30,7 +30,8 @@ LeetCode
 | 2574 |[Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/)|[Java](./algorithms/src/main/java/leftAndRightSumDifferences/LeftAndRightSumDifferences.java)| Easy       |
 | 1689 |[Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|[Java](./algorithms/src/main/java/partitioningIntoMinimumNumberOfDeciBinaryNumbers/PartitioningIntoMinimumNumberOfDeciBinaryNumbers.java)| Medium     |
 | 1476 |[Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/)|[Java](./algorithms/src/main/java/subrectangleQueries/SubrectangleQueries.java)| Medium     |
-| 2413 |[Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)|[Java](./algorithms/src/main/java/smallestEvenMultiple/SmallestEvenMultiple.java)| Medium     |
+| 2413 |[Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)|[Java](./algorithms/src/main/java/smallestEvenMultiple/SmallestEvenMultiple.java)| Easy       |
+| 2413 |[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[Java](./algorithms/src/main/java/goalParserInterpretation/GoalParserInterpretation.java)| Easy       |
 
 ### Other Algorithms
 
