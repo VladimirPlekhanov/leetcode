@@ -32,6 +32,8 @@ LeetCode
 | 1476 |[Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/)|[Java](./algorithms/src/main/java/subrectangleQueries/SubrectangleQueries.java)| Medium     |
 | 2413 |[Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)|[Java](./algorithms/src/main/java/smallestEvenMultiple/SmallestEvenMultiple.java)| Easy       |
 | 2413 |[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[Java](./algorithms/src/main/java/goalParserInterpretation/GoalParserInterpretation.java)| Easy       |
+| 2413 |[Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)|[Java](./algorithms/src/main/java/smallestEvenMultiple/SmallestEvenMultiple.java)| Easy     |
+| 2396 |[Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/)|[Java](./algorithms/src/main/java/strictlyPalindromicNumber/StrictlyPalindromicNumber.java)| Medium     |
 
 ### Other Algorithms
 
